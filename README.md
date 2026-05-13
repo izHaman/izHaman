@@ -34,8 +34,6 @@
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izHaman&layout=bar&theme=dark&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d0d0d)
-
 
 </div>
 
