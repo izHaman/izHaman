@@ -9,7 +9,6 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### *"Code is my riff. Logic is my breakdown. Bugs are just the mosh pit."* 🎸
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Metal+Mania&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%95%B8%EF%B8%8F;Automation+Architect+%E2%9A%99%EF%B8%8F;AI+Whisperer+%F0%9F%A4%96;Dark+Side+of+the+Terminal+%F0%9F%96%A4)
 
@@ -26,12 +25,12 @@ NAME        = "Haman"
 ROLE        = "Python Developer | Web Developer | Automation Engineer"
 LOCATION    = "Iran"
 PHILOSOPHY  = "Automatic, the opposite of the world, which is random (YKWIM?(oh sht it's one of my fav musics! how random huh?))"
-STATUS      = "🎧 Listening to 'Knife Prty' by Deftones & shredding code 🤘"
 ```
 
 ---
+<div align="center">
+🎸 SKILLS — THE SETLIST
 
-## 🎸 SKILLS — THE SETLIST
 
 ### 🩸 Languages *(The Instruments)*
 <div align="center">
@@ -78,20 +77,19 @@ STATUS      = "🎧 Listening to 'Knife Prty' by Deftones & shredding code 🤘"
 
 ---
 
-### 🤖 AI & Automation *(The Secret Weapon)*
+### 👾 AI & Automation *(The Secret Weapon)*
 <div align="center">
 
-![AI](https://img.shields.io/badge/Working_with_AIs-FF0000?style=for-the-badge&logo=openai&logoColor=black)
+![AI](https://img.shields.io/badge/AI-FF0000?style=for-the-badge&logo=gemini&logoColor=black)
 ![APIs](https://img.shields.io/badge/REST_APIs-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=FF0000)
 ![Telegram](https://img.shields.io/badge/Telegram_Sessions-FF0000?style=for-the-badge&logo=telegram&logoColor=black)
 
 </div>
-
-> *"I don't just use AI. I make it do my bidding."* 🖤
+</div>
 
 ---
 
-## 📊 GitHub Stats *(The Stage Monitors)*
+
 
 <div align="center">
 
@@ -117,17 +115,9 @@ STATUS      = "🎧 Listening to 'Knife Prty' by Deftones & shredding code 🤘"
 
 ---
 
-## 🎵 NOW PLAYING
 
-```
-▶ ████████████████░░░░░░░░  Knife Prty — Deftones
-💿 Album  : White pony (2000)
-🔊 Vol    : 11/10
-```
 
----
-
-## 📡 CONNECT — THE AFTER PARTY
+## 📡 CONNECT
 
 <div align="center">
 
@@ -140,12 +130,6 @@ STATUS      = "🎧 Listening to 'Knife Prty' by Deftones & shredding code 🤘"
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║   WRITE CODE. BREAK THINGS. Go F yourself.      ║
-║                    REPEAT. 🤘                   ║
-╚══════════════════════════════════════════╝
-```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=izHaman&color=FF0000&style=for-the-badge&label=HEADBANGERS+VISITED)
 
