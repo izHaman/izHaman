@@ -1,20 +1,32 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="UTF-8">
+<title>Terminal</title>
+
 <style>
 body {
   background: black;
   color: red;
   font-family: monospace;
-  text-align: center;
-  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#text {
+  font-size: 32px;
+  transition: opacity 0.3s ease;
+  text-shadow: 0 0 10px red;
 }
 </style>
 </head>
 
 <body>
 
-<h1 id="text">PYTHON DEVELOPER</h1>
+<div id="text">PYTHON DEVELOPER</div>
 
 <script>
 const texts = [
@@ -26,14 +38,15 @@ const texts = [
 ];
 
 let i = 0;
+const el = document.getElementById("text");
 
 setInterval(() => {
-  document.getElementById("text").style.opacity = 0;
+  el.style.opacity = 0;
 
   setTimeout(() => {
     i = (i + 1) % texts.length;
-    document.getElementById("text").innerText = texts[i];
-    document.getElementById("text").style.opacity = 1;
+    el.textContent = texts[i];
+    el.style.opacity = 1;
   }, 300);
 
 }, 2000);
