@@ -10,7 +10,11 @@
 ```
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Metal+Mania&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%95%B8%EF%B8%8F;Automation+Architect+%E2%9A%99%EF%B8%8F;AI+Whisperer+%F0%9F%A4%96;Dark+Side+of+the+Terminal+%F0%9F%96%A4)
+<div align="center">
+
+<img src="https://izHaman.github.io/izHaman/" width="100%" />
+
+</div>
 
 ---
 
