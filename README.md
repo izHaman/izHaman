@@ -55,12 +55,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=FF0000)](https://github.com/izHaman)
 
 </div>
-
----
-
-<div align="center">
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=izHaman&color=FF0000&style=for-the-badge&label=HEADBANGERS+VISITED)
-
-</div>
