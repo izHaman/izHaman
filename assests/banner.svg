@@ -1,0 +1,185 @@
+<div align="center">
+
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#111111"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Scanlines -->
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="rgba(255,255,255,0.03)" />
+    </pattern>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+      .bg {
+        fill: url(#bg);
+      }
+
+      .scan {
+        fill: url(#scanlines);
+        opacity: 0.18;
+      }
+
+      .line {
+        font-family: 'Metal Mania', cursive;
+        font-size: 30px;
+        fill: #ff0000;
+        letter-spacing: 2px;
+
+        filter: url(#glow);
+
+        animation:
+          flicker 4s infinite,
+          pulse 6s ease-in-out infinite;
+      }
+
+      .glitch1 {
+        fill: rgba(255,0,0,0.35);
+        transform: translate(-2px, 0);
+      }
+
+      .glitch2 {
+        fill: rgba(255,255,255,0.10);
+        transform: translate(2px, 0);
+      }
+
+      .footer {
+        font-family: monospace;
+        font-size: 13px;
+        fill: #777;
+        letter-spacing: 3px;
+      }
+
+      @keyframes flicker {
+        0%,18%,22%,25%,53%,57%,100% {
+          opacity: 1;
+        }
+
+        20%,24%,55% {
+          opacity: 0.45;
+        }
+      }
+
+      @keyframes pulse {
+        0%,100% {
+          filter:
+            url(#glow)
+            drop-shadow(0 0 5px #ff0000);
+        }
+
+        50% {
+          filter:
+            url(#glow)
+            drop-shadow(0 0 16px #ff0000);
+        }
+      }
+
+    </style>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="260" class="bg"/>
+
+  <!-- Scanlines -->
+  <rect width="900" height="260" class="scan"/>
+
+  <!-- Top line -->
+  <line x1="80" y1="35" x2="820" y2="35"
+        stroke="#330000"
+        stroke-width="1"/>
+
+  <!-- Line 1 -->
+  <text x="50%" y="75" text-anchor="middle" class="line glitch1">
+    PYTHON DEVELOPER
+  </text>
+
+  <text x="50%" y="75" text-anchor="middle" class="line glitch2">
+    PYTHON DEVELOPER
+  </text>
+
+  <text x="50%" y="75" text-anchor="middle" class="line">
+    PYTHON DEVELOPER
+  </text>
+
+  <!-- Line 2 -->
+  <text x="50%" y="110" text-anchor="middle" class="line glitch1">
+    WEB DEVELOPER
+  </text>
+
+  <text x="50%" y="110" text-anchor="middle" class="line glitch2">
+    WEB DEVELOPER
+  </text>
+
+  <text x="50%" y="110" text-anchor="middle" class="line">
+    WEB DEVELOPER
+  </text>
+
+  <!-- Line 3 -->
+  <text x="50%" y="145" text-anchor="middle" class="line glitch1">
+    AUTOMATION ARCHITECT
+  </text>
+
+  <text x="50%" y="145" text-anchor="middle" class="line glitch2">
+    AUTOMATION ARCHITECT
+  </text>
+
+  <text x="50%" y="145" text-anchor="middle" class="line">
+    AUTOMATION ARCHITECT
+  </text>
+
+  <!-- Line 4 -->
+  <text x="50%" y="180" text-anchor="middle" class="line glitch1">
+    AI WHISPERER
+  </text>
+
+  <text x="50%" y="180" text-anchor="middle" class="line glitch2">
+    AI WHISPERER
+  </text>
+
+  <text x="50%" y="180" text-anchor="middle" class="line">
+    AI WHISPERER
+  </text>
+
+  <!-- Line 5 -->
+  <text x="50%" y="215" text-anchor="middle" class="line glitch1">
+    DARK SIDE OF THE TERMINAL
+  </text>
+
+  <text x="50%" y="215" text-anchor="middle" class="line glitch2">
+    DARK SIDE OF THE TERMINAL
+  </text>
+
+  <text x="50%" y="215" text-anchor="middle" class="line">
+    DARK SIDE OF THE TERMINAL
+  </text>
+
+  <!-- Bottom line -->
+  <line x1="80" y1="240" x2="820" y2="240"
+        stroke="#330000"
+        stroke-width="1"/>
+
+  <!-- Footer -->
+  <text x="50%" y="255" text-anchor="middle" class="footer">
+    SYSTEM ONLINE
+  </text>
+
+</svg>
+
+</div>
