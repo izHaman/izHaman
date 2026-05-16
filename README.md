@@ -9,16 +9,19 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
+</div>
+<div align="center" style="white-space: nowrap; overflow-x: auto;">
 
-<div align="center">
-
-<img src="https://izHaman.github.io/izHaman/" width="100%" />
+<img src="https://img.shields.io/badge/Python_Developer-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0000&labelColor=050505" />
+<img src="https://img.shields.io/badge/Web_Developer-0d0d0d?style=for-the-badge&logo=react&logoColor=ff0000&labelColor=050505" />
+<img src="https://img.shields.io/badge/AI_Whisperer-0d0d0d?style=for-the-badge&logo=googlegemini&logoColor=ff0000&labelColor=050505" />
+<img src="https://img.shields.io/badge/Automation_Architect-0d0d0d?style=for-the-badge&logo=n8n&logoColor=ff0000&labelColor=050505" />
+<img src="https://img.shields.io/badge/Dark_Side_of_the_Terminal-0d0d0d?style=for-the-badge&logo=gnometerminal&logoColor=ff0000&labelColor=050505" />
 
 </div>
+
 
 ---
-
-</div>
 
 <div align="center">
 
